@@ -9,10 +9,15 @@ GIT REPO
 	b.  git commit -m "Commit Message"
 	c.  git push
 5. Git push will ask for username and password to push the changes made to the GIT repo.
-
+6. Syncup the 
 
 
 INSTALLING OPEN SOURCE UTILITIES
 ====================================
 
-1. Open command prompt
+1.  NPM - Node package manager (uses a file named 'package.json' at root level to add dependencies to the project and scripts which needs to be executed).
+2.  Bower - Manages all the frameworks, libraries, assets and utilities (uses a file named 'bower.json' at root level to add all the dependencies ex- Angular, Jquery, Bootstrap, etc. )
+3.  Karma - 
+4.  Karma-Jasmine 
+5.  http-server - 
+6.  protractor
