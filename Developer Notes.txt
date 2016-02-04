@@ -1,0 +1,18 @@
+GIT REPO
+===========
+1. Create a GIT repository using GIT Hub - use the name of the project (Ex- Todo).
+2. Open Command Prompt, go to the directory wherever you want to take the clone the Todo project
+2. Download the Todo repository using command " git clone https://github.com/rkssays84/ToDo.git " 
+3. Create the folder structure in application local directory. (Apps --> CSS, JS, IMG, partials, etc.)
+4. for commiting the changes made in local use the below commands (Only folders with files will be commited)
+	a.  git add FOLDERNAME
+	b.  git commit -m "Commit Message"
+	c.  git push
+5. Git push will ask for username and password to push the changes made to the GIT repo.
+
+
+
+INSTALLING OPEN SOURCE UTILITIES
+====================================
+
+1. Open command prompt
