@@ -5,19 +5,22 @@ GIT REPO
 2. Download the Todo repository using command " git clone https://github.com/rkssays84/ToDo.git " 
 3. Create the folder structure in application local directory. (Apps --> CSS, JS, IMG, partials, etc.)
 4. for commiting the changes made in local use the below commands (Only folders with files will be commited)
-	a.  git add FOLDERNAME
+	a.  git add FOLDERNAME or git add 'filename'
 	b.  git commit -m "Commit Message"
 	c.  git push
 5. Git push will ask for username and password to push the changes made to the GIT repo.
-6. Syncup the 
+6. Taking the latest from git use 'git pull' command. 
 
 
 INSTALLING OPEN SOURCE UTILITIES
 ====================================
 
 1.  NPM - Node package manager (uses a file named 'package.json' at root level to add dependencies to the project and scripts which needs to be executed).
-2.  Bower - Manages all the frameworks, libraries, assets and utilities (uses a file named 'bower.json' at root level to add all the dependencies ex- Angular, Jquery, Bootstrap, etc. )
-3.  Karma - 
-4.  Karma-Jasmine 
-5.  http-server - 
-6.  protractor
+2.  Bower - Client side code package manager - Manages all the frameworks, libraries, assets and utilities (uses a file named 'bower.json' at root level to add all the dependencies ex- Angular, Jquery, Bootstrap, etc. )
+3.  Karma - Unit test runner
+4.  Karma-Jasmine  - JS unit test framework
+5.  http-server - simple local static webserver
+6.  protractor - end to end (E2E) test runner
+
+
+
